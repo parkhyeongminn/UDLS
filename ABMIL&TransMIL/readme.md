@@ -19,9 +19,9 @@ c. Install other third-party libraries.
 
 d. Run the code
 
-- TCGA:
+- command
 
   ```
-  python train_tcga.py --num_classes [1 for C16 and 2 for tcga] --dataset [C16/tcga] --agg no --feats_size [size of pre-computed features (1024)] --model [abmil/transmil] --dropout_rate [Patch Dropout rate] ---num_augments [10/20/30]
+  python train_mil_calibration.py --num_classes [1 for C16 and 2 for tcga] --dataset [C16/tcga] --agg no --feats_size [size of pre-computed features (1024)] --model [abmil/transmil] --dropout_rate [Patch Dropout rate] ---num_augments [10/20/30]
    
   ```

@@ -39,9 +39,9 @@ parser.add_argument('--batch_size', default=1, type=int)
 parser.add_argument('--batch_size_v', default=1, type=int)
 parser.add_argument('--num_workers', default=4, type=int)
 parser.add_argument('--num_cls', default=2, type=int)
-parser.add_argument('--mDATA0_dir_train0', default='./camelyon/train.pkl', type=str)  ## Train Set
-parser.add_argument('--mDATA0_dir_val0', default='./camelyon/val.pkl', type=str)            ## Validation Set
-parser.add_argument('--mDATA_dir_test0', default='./camelyon/mDATA_test.pkl', type=str)         ## Test Set
+parser.add_argument('--mDATA0_dir_train0', default='./TCGA_LUNG_slide_unit/train', type=str)  ## Train Set
+parser.add_argument('--mDATA0_dir_val0', default='./TCGA_LUNG_slide_unit/validation', type=str)            ## Validation Set
+parser.add_argument('--mDATA_dir_test0', default='./TCGA_LUNG_slide_unit/test', type=str)         ## Test Set
 parser.add_argument('--numGroup', default=4, type=int)
 parser.add_argument('--total_instance', default=4, type=int)
 parser.add_argument('--numGroup_test', default=4, type=int)
