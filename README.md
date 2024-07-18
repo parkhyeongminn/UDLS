@@ -1,7 +1,7 @@
 The code for the paper "Uncertainty-based Data-wise Label Smoothing for Calibrating Multiple Instance Learning in Histopathology Image Classification"
 
 
-You can run the code after extracting the patch features.
+Run the code after extracting the patch features.
 
 
 You can get the pre-trained patch features from the work of DTFD-MIL:
