@@ -17,4 +17,4 @@ https://github.com/hrzhang1123/DTFD-MIL
 }
 
 
-The specific guidlines for running the codes are in the subfolders.
+The specific guidlines for running the codes are presented in the subfolders.
