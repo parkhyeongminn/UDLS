@@ -5,7 +5,7 @@ The code for "Uncertainty-based Data-wise Label Smoothing for Calibrating Multip
 Run the code after extracting the patch features.
 
 
-You can get the pre-trained patch features from the work of DTFD-MIL:
+For the benchmark datasets, you can get the pre-trained patch features from the work of DTFD-MIL:
 
 https://github.com/hrzhang1123/DTFD-MIL
 
@@ -18,4 +18,4 @@ https://github.com/hrzhang1123/DTFD-MIL
 }
 
 
-The specific guidlines for running the codes are presented in the subfolders.
+The specific guidelines for running the codes are presented in the subfolders.
