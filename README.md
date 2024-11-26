@@ -1,4 +1,4 @@
-The code for the paper "Uncertainty-based Data-wise Label Smoothing for Calibrating Multiple Instance Learning in Histopathology Image Classification"
+The code for "Uncertainty-based Data-wise Label Smoothing for Calibrating Multiple Instance Learning in Histopathology Image Classification"
 
 ![UDLS_framework](figs/UDLS_framework-1.png)
 
